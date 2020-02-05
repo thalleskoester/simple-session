@@ -1,9 +1,13 @@
 {
-  "name": "thallesdella/project",
+  "name": "thallesdella/simple-session",
   "description": "Model of component for composer",
   "keywords": [
     "component",
-    "composer"
+    "composer",
+    "Simple Session",
+    "Session",
+    "OO",
+    "Objected Oriented"
   ],
   "homepage": "http://www.bunana.com.br",
   "license": "MIT",
@@ -16,7 +20,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "ThallesDella\\Project\\": "src"
+      "ThallesDella\\SimpleSession\\": "src"
     }
   },
   "scripts": {
