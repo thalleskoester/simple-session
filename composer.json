@@ -1,6 +1,6 @@
 {
   "name": "thallesdella/simple-session",
-  "description": "Model of component for composer",
+  "description": "Uma simples forma de trabalhar com sessões do PHP de forma Orientada a Objetos",
   "keywords": [
     "component",
     "composer",
